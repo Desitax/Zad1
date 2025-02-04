@@ -1,0 +1,14 @@
+C:\Users\Student16\Desktop\Dess\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student16\Desktop\Dess\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Student16\Desktop\Dess\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+C:\Users\Student16\Desktop\Dess\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Student16\Desktop\Dess\Methods\obj\Debug\net8.0\Methods.dll
+C:\Users\Student16\Desktop\Dess\Methods\obj\Debug\net8.0\refint\Methods.dll
+C:\Users\Student16\Desktop\Dess\Methods\obj\Debug\net8.0\Methods.pdb
+C:\Users\Student16\Desktop\Dess\Methods\bin\Debug\net8.0\Methods.exe
+C:\Users\Student16\Desktop\Dess\Methods\bin\Debug\net8.0\Methods.deps.json
+C:\Users\Student16\Desktop\Dess\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+C:\Users\Student16\Desktop\Dess\Methods\bin\Debug\net8.0\Methods.dll
+C:\Users\Student16\Desktop\Dess\Methods\bin\Debug\net8.0\Methods.pdb
+C:\Users\Student16\Desktop\Dess\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+C:\Users\Student16\Desktop\Dess\Methods\obj\Debug\net8.0\ref\Methods.dll
